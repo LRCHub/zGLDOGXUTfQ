@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "夜もすがら君想ふ",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-04T08:12:04.362301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+      "has_synced": false,
+      "path": "select/01_夜もすがら君想ふ_TOKOTOKO(西沢さんP)_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_夜もすがら君想ふ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/03_夜もすがら君想ふ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/04_夜もすがら君想ふ_TOKOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "あやぽんず＊",
+      "has_synced": true,
+      "path": "select/05_夜もすがら君想ふ_あやぽんず.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ feat. TOKOTOKO",
+      "artist": "あやぽんず＊",
+      "has_synced": true,
+      "path": "select/06_夜もすがら君想ふ_feat._TOKOTOKO_あやぽんず.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "ころん",
+      "has_synced": true,
+      "path": "select/07_夜もすがら君想ふ_ころん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "has_synced": false,
+      "path": "select/08_夜もすがら君想ふ_TOKOTOKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/09_夜もすがら君想ふ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/10_夜もすがら君想ふ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/11_夜もすがら君想ふ_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/12_夜もすがら君想ふ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/13_夜もすがら君想ふ_Rib.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "has_synced": true,
+      "path": "select/14_夜もすがら君想ふ_TOKOTOKO(西沢さんP).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (10th Anniv.)",
+      "artist": "TOKOTOKO feat.GUMI",
+      "has_synced": true,
+      "path": "select/15_夜もすがら君想ふ_(10th_Anniv.)_TOKOTOKO_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (10th Anniv.) - Yomosugara Kimi Omou (10th Anniv.) feat.GUMI SV (feat. GUMI SV)",
+      "artist": "TOKOTOKO(NishizawasanP)",
+      "has_synced": true,
+      "path": "select/16_夜もすがら君想ふ_(10th_Anniv.)_-_Yomosugara_Kimi_Omou_(10th_Anniv.)_feat.GUMI_SV_(feat.__TOKOTOKO(NishizawasanP).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (feat. 星乃一歌 & 天馬咲希 & 望月穂波 & 日野森志歩 &...",
+      "artist": "Leo need",
+      "has_synced": true,
+      "path": "select/17_夜もすがら君想ふ_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&_日野森志歩_&..._Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン",
+      "has_synced": true,
+      "path": "select/18_夜もすがら君想ふ_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "夜もすがら君想ふ (10th Anniv.) feat.GUMI SV",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/19_夜もすがら君想ふ_(10th_Anniv.)_feat.GUMI_SV_TOKOTOKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜もすがら君想ふ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_夜もすがら君想ふ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo_need.txt"
+    }
+  ]
+}
